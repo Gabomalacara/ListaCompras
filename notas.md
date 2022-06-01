@@ -1,0 +1,1 @@
+** Obtinene la etiqueta con ese id** `document.getElelement("id")`
